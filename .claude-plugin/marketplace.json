@@ -1,0 +1,14 @@
+{
+  "name": "its",
+  "owner": {
+    "name": "ITS",
+    "email": "jucebueno@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "its-tools",
+      "source": "./plugins/its-tools",
+      "description": "Governança ITS para Claude Code: guards determinísticos de produção e segredos, commands de revisão/deploy (premortem, pre-merge-review, security-review, deploy-smoke, validar) e instalador do RTK (economia de tokens)."
+    }
+  ]
+}

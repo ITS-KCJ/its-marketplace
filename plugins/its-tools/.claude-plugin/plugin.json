@@ -1,0 +1,8 @@
+{
+  "name": "its-tools",
+  "version": "0.1.0",
+  "description": "Guards de produção/segredos, modos de sessão, handoff automático e commands de governança ITS (/its-premortem, /its-pre-merge-review, /its-security-review, /its-deploy-smoke, /its-preflight-deploy, /its-validar, /its-avaliar-ferramenta, /its-modo, /go).",
+  "author": {
+    "name": "Julio Bueno / ITS"
+  }
+}
