@@ -10,7 +10,7 @@ Pré-requisitos: Claude Code logado na conta Teams da ITS, Node.js no PATH,
 acesso de leitura a este repositório no GitHub.
 
 ```
-/plugin marketplace add buenojulio/its-marketplace
+/plugin marketplace add ITS-KCJ/its-marketplace
 /plugin install its-tools@its
 ```
 
